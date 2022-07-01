@@ -1,0 +1,771 @@
+1655926736689	geckodriver	INFO	Listening on 127.0.0.1:44039
+1655926737191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "51003" "-no-remote" "-profile" "/tmp/rust_mozprofilejFroOB"
+*** You are running in headless mode.
+1655926737438	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejFroOB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51003/devtools/browser/15a1f912-450f-4cef-922f-e8b1677acde0
+1655926738249	Marionette	INFO	Listening on port 45425
+1655926738311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1655926743167	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1655926771691	geckodriver	INFO	Listening on 127.0.0.1:38519
+1655926772199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "54307" "-no-remote" "-profile" "/tmp/rust_mozprofileAO44VR"
+*** You are running in headless mode.
+1655926772450	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAO44VR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54307/devtools/browser/7b9c72a0-8e0f-4fe1-9a69-70b2f8651acd
+1655926773185	Marionette	INFO	Listening on port 39835
+1655926773212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://track.dailycryptooffer.com/d/.js?lpref=http%3A%2F%2Fhilarion-lar.com%2F&lpurl=https%3A%2F%2Fdailycryptooffer.com%2Foffers%2Flander%2Fif1%2F%3Fcid%3Dwue5vbjnq8defr2h2ajqb48a&lpt=DailyCryptoOffer.com&vtm=1655926785132, line 1: TypeError: c[d].state is undefined
+1655926786058	geckodriver	INFO	Listening on 127.0.0.1:54909
+1655926786566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "42271" "-no-remote" "-profile" "/tmp/rust_mozprofilep3fCP9"
+*** You are running in headless mode.
+1655926786812	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilep3fCP9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42271/devtools/browser/444ae43d-167b-44cb-a1c1-6de8768fceca
+1655926787535	Marionette	INFO	Listening on port 39951
+1655926787582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655926787904	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1655926825857	geckodriver	INFO	Listening on 127.0.0.1:35635
+1655926826365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "47265" "-no-remote" "-profile" "/tmp/rust_mozprofileN1Fv9k"
+*** You are running in headless mode.
+1655926826632	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileN1Fv9k/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47265/devtools/browser/435d5091-927a-4106-a4bb-c0361d719183
+1655926827382	Marionette	INFO	Listening on port 38245
+1655926827481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1655926828273	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://btpnative.com"
+1655926893681	geckodriver	INFO	Listening on 127.0.0.1:39937
+1655926894188	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "54217" "-no-remote" "-profile" "/tmp/rust_mozprofilenGqDXt"
+*** You are running in headless mode.
+1655926894453	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenGqDXt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54217/devtools/browser/bbd744cc-d182-4bf3-a0da-b087e3589f03
+1655926895225	Marionette	INFO	Listening on port 40029
+1655926895299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655926895586	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://btpnative.com"
+1655926936397	geckodriver	INFO	Listening on 127.0.0.1:59217
+1655926936899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "51915" "-no-remote" "-profile" "/tmp/rust_mozprofile3dGexA"
+*** You are running in headless mode.
+1655926937136	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3dGexA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51915/devtools/browser/cfced52a-91bb-4db2-abc7-b61be88c760d
+1655926937890	Marionette	INFO	Listening on port 33879
+1655926937914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655926938913	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1655927015542	geckodriver	INFO	Listening on 127.0.0.1:55909
+1655927016049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "48749" "-no-remote" "-profile" "/tmp/rust_mozprofileo1xNF8"
+*** You are running in headless mode.
+1655927016384	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileo1xNF8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48749/devtools/browser/3767d0eb-0ad6-4667-9b67-3bf6c450b301
+1655927017195	Marionette	INFO	Listening on port 44901
+1655927017261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655927017537	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1655927059248	geckodriver	INFO	Listening on 127.0.0.1:48781
+1655927059751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "48879" "-no-remote" "-profile" "/tmp/rust_mozprofileiWHMD0"
+*** You are running in headless mode.
+1655927060062	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiWHMD0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48879/devtools/browser/f2109a98-d395-42f2-8632-66113661c338
+1655927060988	Marionette	INFO	Listening on port 42579
+1655927061067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1655927062252	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1655927133242	geckodriver	INFO	Listening on 127.0.0.1:47807
+1655927133751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "57215" "-no-remote" "-profile" "/tmp/rust_mozprofileTs2wzd"
+*** You are running in headless mode.
+1655927134089	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTs2wzd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57215/devtools/browser/96c7162c-aef6-497f-9be2-378086bede46
+1655927134869	Marionette	INFO	Listening on port 39529
+1655927134965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655927135889	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1655927198923	geckodriver	INFO	Listening on 127.0.0.1:47453
+1655927199425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "33911" "-no-remote" "-profile" "/tmp/rust_mozprofileup4RmQ"
+*** You are running in headless mode.
+1655927199713	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileup4RmQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33911/devtools/browser/261b4110-a6d3-40f6-a504-54032c46ab13
+1655927200534	Marionette	INFO	Listening on port 32919
+1655927200643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1655927201726	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: XhrError
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: , line 0: uncaught exception: XhrError
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: , line 0: uncaught exception: XhrError
+1655927264917	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+1655927486224	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+1655927660568	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+1655927773027	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: , line 0: uncaught exception: XhrError
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: , line 0: uncaught exception: XhrError
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: , line 0: uncaught exception: XhrError
+[2022-06-22T19:58:01Z ERROR mp4parse] Unsupported essential property CleanAperture
+[2022-06-22T19:58:01Z ERROR mp4parse] Not processing item id ItemId(1) since it is associated with essential, but unsupported properties
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: , line 0: uncaught exception: XhrError
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+1655927950734	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1655927959662	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: XhrError
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+1655927976327	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/4rwLQsl5N_ccppoTAwwwMrEN/recaptcha__en.js, line 351: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+JavaScript error: , line 0: uncaught exception: XhrError
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: , line 0: uncaught exception: XhrError
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+1656601449823	geckodriver	INFO	Listening on 127.0.0.1:40115
+1656601450333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "54715" "-no-remote" "-profile" "/tmp/rust_mozprofileSkoBaW"
+*** You are running in headless mode.
+
+(firefox:44910): Gtk-WARNING **: 20:34:10.392: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656601450629	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSkoBaW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54715/devtools/browser/2fd32fc5-9a17-42c0-8318-42896b53c843
+1656601451478	Marionette	INFO	Listening on port 39233
+1656601451548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://btpnative.com"
+JavaScript error: https://www.gstatic.com/recaptcha/releases/4rwLQsl5N_ccppoTAwwwMrEN/recaptcha__en.js, line 351: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+1656601561488	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+1656601581697	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: , line 0: uncaught exception: XhrError
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: , line 0: uncaught exception: XhrError
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: , line 0: uncaught exception: XhrError
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://www.gstatic.com/recaptcha/releases/4rwLQsl5N_ccppoTAwwwMrEN/recaptcha__en.js, line 351: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: , line 0: uncaught exception: XhrError
+JavaScript error: , line 0: uncaught exception: XhrError
+1656601784183	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-06-30T15:09:51Z ERROR mp4parse] Unsupported essential property CleanAperture
+[2022-06-30T15:09:51Z ERROR mp4parse] Not processing item id ItemId(1) since it is associated with essential, but unsupported properties
+JavaScript error: , line 0: uncaught exception: XhrError
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+1656602208281	geckodriver	INFO	Listening on 127.0.0.1:58551
+1656602208779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "57005" "-no-remote" "-profile" "/tmp/rust_mozprofileoX71RQ"
+*** You are running in headless mode.
+
+(firefox:79757): Gtk-WARNING **: 20:46:48.833: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656602209052	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoX71RQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57005/devtools/browser/9ffddf6a-dd02-4f8c-8581-230569e07dd1
+1656602209818	Marionette	INFO	Listening on port 44533
+1656602209897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656602211377	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://btpnative.com"
+1656602238834	geckodriver	INFO	Listening on 127.0.0.1:49777
+1656602239329	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "48987" "-no-remote" "-profile" "/tmp/rust_mozprofileWd6vin"
+*** You are running in headless mode.
+
+(firefox:80517): Gtk-WARNING **: 20:47:19.391: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656602239685	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWd6vin/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48987/devtools/browser/999f75f6-6ea7-47ab-acfb-2e1deaff975e
+1656602240785	Marionette	INFO	Listening on port 44941
+1656602240845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656602241623	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+1656602247896	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1656602248880	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: , line 0: uncaught exception: XhrError
+1656602285236	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+1656602293398	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+1656602308257	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1656602311012	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: , line 0: uncaught exception: XhrError
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+1656602352058	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: , line 0: uncaught exception: XhrError
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+1656602362402	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: , line 0: uncaught exception: XhrError
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+1656602399670	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+1656602405085	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+1656602411012	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+1656602422646	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-06-30T15:20:31Z ERROR mp4parse] Unsupported essential property CleanAperture
+[2022-06-30T15:20:31Z ERROR mp4parse] Not processing item id ItemId(1) since it is associated with essential, but unsupported properties
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+1656602434588	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: , line 0: uncaught exception: XhrError
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+JavaScript error: https://www.gstatic.com/recaptcha/releases/4rwLQsl5N_ccppoTAwwwMrEN/recaptcha__en.js, line 351: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+1656602971186	geckodriver	INFO	Listening on 127.0.0.1:37971
+1656602971696	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "37567" "-no-remote" "-profile" "/tmp/rust_mozprofilefjyiQc"
+*** You are running in headless mode.
+
+(firefox:121138): Gtk-WARNING **: 20:59:31.745: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656602971968	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefjyiQc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37567/devtools/browser/0640b29e-2817-42d2-914b-19acbd6df727
+1656602972792	Marionette	INFO	Listening on port 42365
+1656602972813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656602999560	geckodriver	INFO	Listening on 127.0.0.1:41553
+1656603000067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "33483" "-no-remote" "-profile" "/tmp/rust_mozprofileK36kH8"
+*** You are running in headless mode.
+
+(firefox:121876): Gtk-WARNING **: 21:00:00.124: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656603000324	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK36kH8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33483/devtools/browser/eb2eb950-9d91-4567-9ef6-e8d77dbb532e
+1656603001132	Marionette	INFO	Listening on port 38417
+1656603001183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656603001549	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656603041971	geckodriver	INFO	Listening on 127.0.0.1:34189
+1656603042479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "46025" "-no-remote" "-profile" "/tmp/rust_mozprofileufCP4o"
+*** You are running in headless mode.
+
+(firefox:123507): Gtk-WARNING **: 21:00:42.524: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656603042753	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileufCP4o/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46025/devtools/browser/c50233f1-3a99-49a9-877f-df3271eaffe0
+1656603043758	Marionette	INFO	Listening on port 43723
+1656603043794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656603044159	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+1656603060969	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656603073586	geckodriver	INFO	Listening on 127.0.0.1:40599
+1656603074096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "47517" "-no-remote" "-profile" "/tmp/rust_mozprofiletmJUE2"
+*** You are running in headless mode.
+
+(firefox:126222): Gtk-WARNING **: 21:01:14.164: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656603074403	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletmJUE2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47517/devtools/browser/f23b89bc-091c-46e4-9a8f-d5ffbfa9544f
+1656603075248	Marionette	INFO	Listening on port 41429
+1656603075317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656603075591	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656603080407	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+1656603097769	geckodriver	INFO	Listening on 127.0.0.1:56723
+1656603098270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "50095" "-no-remote" "-profile" "/tmp/rust_mozprofile8xBUpz"
+*** You are running in headless mode.
+
+(firefox:129012): Gtk-WARNING **: 21:01:38.340: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656603098654	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8xBUpz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50095/devtools/browser/0e4e42e6-a87d-4d30-bfaa-5a5a2cbd5c5f
+1656603099795	Marionette	INFO	Listening on port 44319
+1656603099895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656603100007	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656603121988	geckodriver	INFO	Listening on 127.0.0.1:59897
+1656603122497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "42307" "-no-remote" "-profile" "/tmp/rust_mozprofilepNzb30"
+*** You are running in headless mode.
+
+(firefox:129938): Gtk-WARNING **: 21:02:02.592: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656603122923	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepNzb30/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42307/devtools/browser/cd5741a4-f384-4073-90e8-957b78df740b
+1656603124425	Marionette	INFO	Listening on port 32855
+1656603126239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656603137584	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656603293511	geckodriver	INFO	Listening on 127.0.0.1:43235
+1656603294009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "46403" "-no-remote" "-profile" "/tmp/rust_mozprofilepE8dm6"
+*** You are running in headless mode.
+
+(firefox:2249): Gtk-WARNING **: 21:04:54.040: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656603294297	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepE8dm6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46403/devtools/browser/341ad5fe-636d-4920-b472-01096d633dff
+1656603295094	Marionette	INFO	Listening on port 36451
+1656603295125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656603296097	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+1656603400947	geckodriver	INFO	Listening on 127.0.0.1:42877
+1656603401449	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "49821" "-no-remote" "-profile" "/tmp/rust_mozprofile5rCG3H"
+*** You are running in headless mode.
+
+(firefox:4973): Gtk-WARNING **: 21:06:41.486: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656603401858	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5rCG3H/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49821/devtools/browser/03eb8ee2-717e-49d1-a9ec-a8f05ac04798
+1656603403176	Marionette	INFO	Listening on port 33573
+1656603403286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656603403802	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656603521177	geckodriver	INFO	Listening on 127.0.0.1:50973
+1656603521684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "49737" "-no-remote" "-profile" "/tmp/rust_mozprofile34To2r"
+*** You are running in headless mode.
+
+(firefox:7815): Gtk-WARNING **: 21:08:41.741: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656603521939	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile34To2r/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49737/devtools/browser/15f35fa8-5597-4820-9173-e8091cc67ce8
+1656603522679	Marionette	INFO	Listening on port 42855
+1656603522703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656603553049	geckodriver	INFO	Listening on 127.0.0.1:52733
+1656603553557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "45603" "-no-remote" "-profile" "/tmp/rust_mozprofileanufJI"
+*** You are running in headless mode.
+
+(firefox:9283): Gtk-WARNING **: 21:09:13.613: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656603553824	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileanufJI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45603/devtools/browser/c9d00dd6-55ef-4eb3-aacb-ae1f2c8efcc7
+1656603554615	Marionette	INFO	Listening on port 40603
+1656603554670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656603554970	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656603625243	geckodriver	INFO	Listening on 127.0.0.1:49715
+1656603625749	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "34897" "-no-remote" "-profile" "/tmp/rust_mozprofileGgdKqw"
+*** You are running in headless mode.
+
+(firefox:11052): Gtk-WARNING **: 21:10:25.804: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656603626031	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGgdKqw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34897/devtools/browser/e0b464f8-1032-485a-84d9-598ecfb2cc53
+1656603626802	Marionette	INFO	Listening on port 33583
+1656603626861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656603628333	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1656603637583	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: r is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656603791124	geckodriver	INFO	Listening on 127.0.0.1:41067
+1656603791626	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "39211" "-no-remote" "-profile" "/tmp/rust_mozprofilezXpUB1"
+*** You are running in headless mode.
+
+(firefox:18203): Gtk-WARNING **: 21:13:11.654: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656603791937	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezXpUB1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39211/devtools/browser/78e963ee-1f20-4489-8ac2-6398cf2a67ff
+1656603792981	Marionette	INFO	Listening on port 34733
+1656603793047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656603795794	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1656603897489	geckodriver	INFO	Listening on 127.0.0.1:42075
+1656603897997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "32995" "-no-remote" "-profile" "/tmp/rust_mozprofilemC8Nnc"
+*** You are running in headless mode.
+
+(firefox:20648): Gtk-WARNING **: 21:14:58.053: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656603898256	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemC8Nnc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:32995/devtools/browser/579c0685-e492-4158-a9e0-77949b94cda5
+1656603899000	Marionette	INFO	Listening on port 39343
+1656603899108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656603900177	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: XhrError
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.28.0/otBannerSdk.js, line 7: TypeError: Xo.bannerGroup is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656604065775	geckodriver	INFO	Listening on 127.0.0.1:36047
+1656604066282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "48307" "-no-remote" "-profile" "/tmp/rust_mozprofileEvruDZ"
+*** You are running in headless mode.
+
+(firefox:25197): Gtk-WARNING **: 21:17:46.338: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656604066530	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEvruDZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48307/devtools/browser/accebfb3-7d5f-40d7-b944-c66df6ff5b5c
+1656604067235	Marionette	INFO	Listening on port 34911
+1656604067295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656604069710	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1656604205870	geckodriver	INFO	Listening on 127.0.0.1:59465
+1656604206378	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "46159" "-no-remote" "-profile" "/tmp/rust_mozprofileBzwH8h"
+*** You are running in headless mode.
+
+(firefox:27162): Gtk-WARNING **: 21:20:06.433: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656604206629	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBzwH8h/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46159/devtools/browser/6d383620-39aa-4e84-b8df-52c3deb98f2b
+1656604207453	Marionette	INFO	Listening on port 44629
+1656604207494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656604208670	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656604381644	geckodriver	INFO	Listening on 127.0.0.1:51317
+1656604382151	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "33039" "-no-remote" "-profile" "/tmp/rust_mozprofilerAYTzA"
+*** You are running in headless mode.
+
+(firefox:30375): Gtk-WARNING **: 21:23:02.210: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656604382404	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerAYTzA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33039/devtools/browser/f224dff2-a0c1-46f3-935a-8711132e1bac
+1656604383110	Marionette	INFO	Listening on port 44491
+1656604383164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656604385475	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+1656604430864	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656604455107	geckodriver	INFO	Listening on 127.0.0.1:33473
+1656604455609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "53851" "-no-remote" "-profile" "/tmp/rust_mozprofilef8aoau"
+*** You are running in headless mode.
+
+(firefox:35501): Gtk-WARNING **: 21:24:15.647: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656604455855	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilef8aoau/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53851/devtools/browser/be51bbfc-67fa-49e5-978b-7e2528849fc1
+1656604456557	Marionette	INFO	Listening on port 35229
+1656604456624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656604457645	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1656604526852	geckodriver	INFO	Listening on 127.0.0.1:33811
+1656604527359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "45419" "-no-remote" "-profile" "/tmp/rust_mozprofilekzVSAT"
+*** You are running in headless mode.
+
+(firefox:37793): Gtk-WARNING **: 21:25:27.421: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656604527624	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekzVSAT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45419/devtools/browser/40779866-c1d2-477c-9130-ec329f677811
+1656604528385	Marionette	INFO	Listening on port 39149
+1656604528471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656604529830	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656604711067	geckodriver	INFO	Listening on 127.0.0.1:53199
+1656604711574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "33975" "-no-remote" "-profile" "/tmp/rust_mozprofileWT7Tup"
+*** You are running in headless mode.
+
+(firefox:40862): Gtk-WARNING **: 21:28:31.618: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656604711826	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWT7Tup/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33975/devtools/browser/6425ce36-79d8-4dbd-8f52-7221fb9211f0
+1656604712550	Marionette	INFO	Listening on port 36453
+1656604712588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656604747904	geckodriver	INFO	Listening on 127.0.0.1:58351
+1656604748411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "34393" "-no-remote" "-profile" "/tmp/rust_mozprofileTwrCbS"
+*** You are running in headless mode.
+
+(firefox:43218): Gtk-WARNING **: 21:29:08.474: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656604748686	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTwrCbS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34393/devtools/browser/6c6a0150-31e5-477f-86f7-6a9c51cab300
+1656604749437	Marionette	INFO	Listening on port 43035
+1656604749534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656604831881	geckodriver	INFO	Listening on 127.0.0.1:52707
+1656604832383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "32997" "-no-remote" "-profile" "/tmp/rust_mozprofileofs9Py"
+*** You are running in headless mode.
+
+(firefox:45705): Gtk-WARNING **: 21:30:32.438: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656604832646	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileofs9Py/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:32997/devtools/browser/6a601f74-2361-42e9-b918-bd3dcb9a993b
+1656604833373	Marionette	INFO	Listening on port 38463
+1656604833395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656605148397	geckodriver	INFO	Listening on 127.0.0.1:53991
+1656605148903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "59873" "-no-remote" "-profile" "/tmp/rust_mozprofilensY02A"
+*** You are running in headless mode.
+
+(firefox:2288): Gtk-WARNING **: 21:35:48.959: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656605149160	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilensY02A/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59873/devtools/browser/6d6aa1ce-f8fe-47dc-ac74-ef1990812eb0
+1656605149897	Marionette	INFO	Listening on port 46559
+1656605149916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+JavaScript error: https://www.gstatic.com/recaptcha/releases/4rwLQsl5N_ccppoTAwwwMrEN/recaptcha__en.js, line 351: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+1656605522290	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+[2022-06-30T16:17:22Z ERROR mp4parse] Unsupported essential property CleanAperture
+[2022-06-30T16:17:22Z ERROR mp4parse] Not processing item id ItemId(1) since it is associated with essential, but unsupported properties
+1656622831395	geckodriver	INFO	Listening on 127.0.0.1:34691
+1656622831894	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "start-maximized" "disable-infobars" "--disable-extensions" "--remote-debugging-port" "49729" "-no-remote" "-profile" "/tmp/rust_mozprofilemzBjBW"
+*** You are running in headless mode.
+
+(firefox:66790): Gtk-WARNING **: 02:30:31.924: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656622832259	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemzBjBW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49729/devtools/browser/19014368-a584-4716-a67d-b609c29fd866
+1656622833397	Marionette	INFO	Listening on port 34657
+1656622833514	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: uncaught exception: XhrError
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+JavaScript error: https://www.gstatic.com/recaptcha/releases/4rwLQsl5N_ccppoTAwwwMrEN/recaptcha__en.js, line 351: uncaught exception: CustomError: Error in protected function: Invalid JSON string: 
+[2022-06-30T21:06:28Z ERROR mp4parse] Unsupported essential property CleanAperture
+[2022-06-30T21:06:28Z ERROR mp4parse] Not processing item id ItemId(1) since it is associated with essential, but unsupported properties
