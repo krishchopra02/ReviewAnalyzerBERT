@@ -11,7 +11,7 @@ services:
     restart: always
   api:
     build:
-      context: src/API
+      context: API
       dockerfile: Dockerfile
     environment:
       - ENVIRONMENT=prod
@@ -25,7 +25,7 @@ services:
     restart: always
   dash:
     build:
-      context: src/Dash
+      context: Dash
       dockerfile: Dockerfile
     ports:
       - "8050:8050"
