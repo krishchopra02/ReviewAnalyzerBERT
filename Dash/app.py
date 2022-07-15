@@ -32,7 +32,7 @@ app.scripts.append_script({
     "external_url": external_script
 })
 
-app.title = 'Reviews AI2Prod'
+app.title = 'Reviewify'
 
 companies = pd.read_csv('./data/companies.csv')
 random_reviews = pd.read_csv('./data/reviews.csv')
