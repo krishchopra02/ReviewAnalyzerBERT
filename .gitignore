@@ -1,0 +1,7 @@
+.vscode/
+__pycache__/
+.prettierrc
+ *.pyc
+.ipynb_checkpoints
+.DS_Store
+Scraping/Review_Sentiment/reviews.csv

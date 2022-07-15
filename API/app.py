@@ -1,20 +1,28 @@
 from flask import Blueprint,request,jsonify,Flask
+import sys
+import os
+import random
+
+from tqdm import tqdm
+
+import db
+import config
 from models.model import CharacterLevelCNN
 from models.model import get_model_params
-from models import _predict_sentiment
-import db 
+from models._predict_sentiment import predict_sentiment
+import config
+
 app = Flask(__name__)
 api = Blueprint('api',__name__)
 
 model_name = 'model_en.pth'
 model_path = f'./models/{model_name}'
-model = CharacterLevelCNN(args = {drop_input:0})
-
+model = CharacterLevelCNN(args = {'drop_input':0})
 
 
 
 @api.route('/predict',methods=['POST'])
-def predict_sentiment():
+def predict_sentiment_review():
     '''Endpoint to predict rating sentiment'''
     if request.method == 'POST':
         if 'review' not in request.form:
@@ -22,7 +30,7 @@ def predict_sentiment():
         else:
             parameter = get_model_params()
             review = request.form['review']
-            output = _predict_sentiment(model,review,**parameter)
+            output = predict_sentiment(model,review,**parameter)
             return jsonify(float(output))
 
 @api.route('/review',methods=['POST'])
@@ -38,6 +46,7 @@ def post_review():
             'user_agent',
             'ip_address'
         ]
+        print(request.form)
     if any(field not in request.form for field in expected_fields):
         return jsonify({'error':'Something missing in the fields'}),400
     query = db.Review.create(**request.form)
@@ -48,4 +57,9 @@ def get_reviews():
     '''Fetch reviews'''
     if request.method=='GET':
         query = db.Review.select()
-        return jsonify([ret.serialize for ret in query])
+        return jsonify([ret.serialize() for ret in query])
+
+app.register_blueprint(api, url_prefix='/api')
+
+if __name__ == '__main__':
+    app.run(debug=config.DEBUG, host=config.HOST)
