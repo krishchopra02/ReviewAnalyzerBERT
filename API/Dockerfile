@@ -3,7 +3,7 @@ FROM python:3.6
 ADD requirements.txt /app/
 WORKDIR /app
 
-RUN pip install -r requirements.txt
+RUN pip3 install --no-cache-dir -r requirements.txt
 
 ADD . /app
 
