@@ -1,4 +1,4 @@
-Flask==2.1.0
+Flask==2.0.3
 peewee==3.11.2
 tqdm==4.31.1
 tensorflow==2.6.2
