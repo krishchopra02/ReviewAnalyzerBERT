@@ -7,8 +7,7 @@ from tqdm import tqdm
 
 import db
 import config
-from models.model import CharacterLevelCNN
-from models.model import get_model_params
+from models.model import BERTModel 
 from models._predict_sentiment import predict_sentiment
 import config
 
@@ -17,7 +16,7 @@ api = Blueprint('api',__name__)
 
 model_name = 'model_en.pth'
 model_path = f'./models/{model_name}'
-model = CharacterLevelCNN(args = {'drop_input':0})
+model = BERTModel
 
 
 
