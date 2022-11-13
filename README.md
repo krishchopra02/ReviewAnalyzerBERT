@@ -1,5 +1,3 @@
-Website Link: http://ec2-52-26-162-50.us-west-2.compute.amazonaws.com:8050/
-
 # ReviewAnalyzer
 A Web App developed using Dash, Flask and Postgresql, it classifies user reviews into positive, negative and neutral. The user can type in his review of a particular brand and the model will output scores which indicates how positive the review is on the basis of a probability. This probability is then translated into a suggested rating on a scale from 1-5. Users can submit their reviews or try to review another brand.
 
@@ -9,4 +7,5 @@ The results were various product reviews scraped from trustpilot.com. Selenium w
 ### Deep Learning Model
 The sentiment analyzer used is a Character-Based Convolutional Neural Network. The relevant reference for the model is: https://arxiv.org/pdf/1509.01626.pdf
 The model was developed using TensorFlow.
+
 
